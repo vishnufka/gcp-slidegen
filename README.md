@@ -1,6 +1,6 @@
 # gcp-slidegen
 
-This program takes weekly update slides and collates them into one slide deck. It is an automation solution that allows users to quickly and easily create slide decks for client check-in calls using relevant updates since the last client meeting. It exists as a browser add-on that users can run from Google Sheets.
+This program takes weekly update slides and collates them into one slide deck. It is an automation solution that allows users to quickly and easily create slide decks for client check-in calls using relevant updates since the last client meeting. It exists as a browser add-on that users can run from Google Sheets. It is hosted in Google Cloud.
 
 Benefits include:
 
